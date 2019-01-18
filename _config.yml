@@ -85,7 +85,7 @@ exclude:
   - README.md
   - CNAME
 
-plugins:
-  - jemoji
+#plugins:
+#  - jemoji
   
 theme: jekyll-theme-cayman
