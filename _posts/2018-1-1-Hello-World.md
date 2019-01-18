@@ -4,5 +4,5 @@ title: It's still under construction
 published: true
 ---
 
-![:(]({{site.baseurl}}/_posts/under-construction.jpg)
+[<img src="{{ site.baseurl }}/images/under-construction.jpg" style="width: 400px;" style="text-align:center"/>]({{site.baseurl}}/_posts/under-construction.jpg)
 
