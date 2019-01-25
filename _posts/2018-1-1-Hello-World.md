@@ -6,3 +6,4 @@ published: true
 
 [<img src="{{ site.baseurl }}/images/under-construction.jpg" style="width: 400px;" style="text-align:center"/>]
 
+![](../images/under-construction.jpg)
