@@ -7,7 +7,7 @@ I am an electrical engineer (majoring in telecommunication) with a master degree
 
 I frequently hear a bunch of 'concerns' (i.e., excuses) why people are reluctant to start using R.  Here I try to address them. However, I wouldn't talk much about computational power and efficiency of R compared to other languages (more specifically, Matlab, Python, and Julia), as I believe an average user in psychology would not notice any issues regarding the speed or efficiency. I, as a quite advanced user, have not encountered any significant efficiency problems yet. In what follows, I try to encourage you to learn _the true and only way of doing statistics,_ which as everyone knows, is **R**.
 
-## Why do you think I need to learn R? 
+## _Why do you think I need to learn R?_ 
 
 SPSS and Matlab are products of filthy Capitalism: they are very costly -which you would probably not care if you use university/student licenses or pirate them!- and they do not belong to the open source culture. I believe they are barriers on our way to a utopian open science.
 
@@ -19,20 +19,20 @@ One can spot these declines in [Google Trends](https://trends.google.com/trends/
 
 ![image](https://user-images.githubusercontent.com/8527082/55494090-6be87880-563a-11e9-8c09-830e7a8d0ce3.png)
 
-## I am already familiar with Matlab/SPSS and I’m quite ‘happy’ with it.
+## _I am already familiar with Matlab/SPSS and I’m quite ‘happy’ with it_
 
 Are you though? People, especially SPSS users, are usually entrapped in a kind of abusive relationship; they rely on it for their work and have to deal with its sufferings since they are too afraid to leave it and move on to a better alternative. In my opinion, some are even suffering from some sort of Stockholm syndrome. You are not alone there.
 
 ![image](https://user-images.githubusercontent.com/8527082/55495028-507e6d00-563c-11e9-9169-c02553fb4c5c.png)
 
-## What can R offer that others do not?
+## _What can R offer that others do not?_
 
 R is fabulous. It is superior to other languages in countless ways when it comes to statistical analyses. Most importantly, it has a very active community and a ton of useful packages which satisfy most of your needs. You can perform advanced statistical modelings and analyses that required special, costly software; you can easily do advanced latent trait modelings (IRT, EFA, CFA, and SEM). I am not going to give more details here.
 
-With R (and its siblings, Rmarkdown and Shiny) you can do things so easily that are hard to imagine elsewhere. You can make excellent $\LaTeX$ or HTML reproducible (APA) papers, technical reports, books, and blogs with Rmarkdown, bookdown, and blogdown. You can create interactive apps with Shiny to collect experiment data, make tutorials, and make powerful BI dashboards, and deploy them to RStudio Shiny Server or your own server. You can build interactive maps and produce magnificent visualizations.
+With R (and its siblings, Rmarkdown and Shiny) you can do things so easily that are hard to imagine elsewhere. You can make excellent LaTeX or HTML reproducible (APA) papers, technical reports, books, and blogs with [Rmarkdown](https://bookdown.org/yihui/rmarkdown/), [bookdown](https://bookdown.org/yihui/bookdown/), and [blogdown](https://bookdown.org/yihui/blogdown/). You can create interactive apps with [Shiny](https://shiny.rstudio.com/gallery/) to collect experiment data, make tutorials, and make powerful BI dashboards, and deploy them to [RStudio Shiny Server](https://www.shinyapps.io) or your own server. You can build interactive maps and produce [magnificent visualizations](https://www.r-graph-gallery.com/).
 
 
-## But I’m too old for this :(
+## _But I’m too old for this :(_
 
 This graph summarizes why you should start learning R:
 
@@ -40,7 +40,7 @@ This graph summarizes why you should start learning R:
  
 I can assure you that it is quite easy to reach the point where R surpasses the maximum reward you can get from SPSS, even if you start from an absolute zero. You do not need to learn all of the abovementioned stuff at one go; you learn a fundamental basis of R programming and then learn more advanced topics according to your needs.
 
-## Owkay, but I don’t know where to start :(
+## _Owkay, but I don’t know where to start :(_
 
 There are literally countless free resources to learn R. This overload of information prevents most people from starting the journey. Hence, I only mention one handy (and quite concise) resource which I have recently found: Danielle Navarro’s [**R for Psychological Science**](https://psyr.org/)
 https://psyr.org/ 
@@ -63,7 +63,7 @@ Also, Google, Stack Overflow, and Stack Exchange are your allies. In 90-95% of t
 
 ![image](https://user-images.githubusercontent.com/8527082/55495100-760b7680-563c-11e9-8f3d-e04e10c1c6c3.png)
 
-I’m super busy. How long does it all take?
+## _I’m super busy :( How long does it all take?_
 
 This is one of the strongest excuses to postpone learning useful skills, whether it is about programming (learning another language, or practicing a [decent coding style](https://google.github.io/styleguide/Rguide.xml)), using a new tool (like git versioning), or acquiring more deepening your superficial theoretical background on a subject. One should always remember this lesson, that a King of Jerusalem, probably Solomon, draws from his experience:
 
