@@ -56,22 +56,24 @@ However, **for an even faster, more efficient learning,** you can also benefit f
 
 Now that you are beginning, I very strongly suggest mastering packages plyr and dplyr so you do not look like a troglodyte to other R users. The former offers a better way of writing apply functions, and the latter is the best way of handling data very intuitively and efficiently with pipe operator (%>%) and its functions for data manipulation. You can get a good understanding of plyr in Hadley Wickham's paper in the Journal of Statistical Software (2011) or this tutorial. For dplyr, benefit from Garrett Grolemund’s data wrangling tutorial (webinar and slides). 
 
+
 Also, Google, Stack Overflow, and Stack Exchange are your allies. In 90-95% of the cases, you can find literally the exact pieces of code you need in less than a minute or two. If you couldn't find a proper answer to your question (or had difficulty understanding what you have discovered), simply ask it on Cross Validated, where a kind stranger will help you quite soon.
 
 I’m super busy. How long does it all take?
 
-This is one of the strongest excuses to postpone learning useful skills, whether it is about programming (learning another language, or decent coding style), using a new tool (like git versioning), or acquiring more profound theoretical background. One should always remember this lesson, that a King of Jerusalem, probably Solomon, draws from his experience:
-If the ax is dull
-and its edge unsharpened,
-more strength is needed,
-but skill will bring success.
-Ecclesiastes 10:10 
+This is one of the strongest excuses to postpone learning useful skills, whether it is about programming (learning another language, or practicing a [decent coding style](https://google.github.io/styleguide/Rguide.xml)), using a new tool (like git versioning), or acquiring more deepening your superficial theoretical background on a subject. One should always remember this lesson, that a King of Jerusalem, probably Solomon, draws from his experience:
+
+>If the ax is dull
+>and its edge unsharpened,
+>more strength is needed,
+>but skill will bring success.
+[Ecclesiastes, 10:10]
 
 image
 
 I think that Navarro’s tutorial should take less than a day or so. Also, you can quickly benefit from the cheat sheets when you need them. The data wrangling slides (dplyr) took me less than an hour (20-30 minutes?) to master, and plyr shouldn't be much different.
 
-
+"Fear God, and keep his commandments; for that is the whole duty of everyone" [Ecclesiastes, 12:13]
 
  
 
