@@ -7,6 +7,8 @@ I am an electrical engineer (majoring in telecommunication) with a master degree
 
 I frequently hear a bunch of 'concerns' (i.e., excuses) why people are reluctant to start using R.  Here I try to address them. However, I wouldn't talk much about computational power and efficiency of R compared to other languages (more specifically, Matlab, Python, and Julia), as I believe an average user in psychology would not notice any issues regarding the speed or efficiency. I, as a quite advanced user, have not encountered any significant efficiency problems yet. In what follows, I try to encourage you to learn _the true and only way of doing statistics,_ which as everyone knows, is **R**.
 
+**Disclaimer:** only the first figure belongs to me.
+
 ## _Why do you think I need to learn R?_ 
 
 SPSS and Matlab are products of filthy Capitalism: they are very costly -which you would probably not care if you use university/student licenses or pirate them!- and they do not belong to the open source culture. I believe they are barriers on our way to a utopian open science.
@@ -68,14 +70,14 @@ Now that you are beginning, I very strongly suggest mastering packages `plyr` an
 This is one of the strongest excuses to postpone learning useful skills, whether it is about programming (learning another language, or practicing a [decent coding style](https://google.github.io/styleguide/Rguide.xml)), using a new tool (like git versioning), or acquiring more deepening your superficial theoretical background on a subject. One should always remember this lesson, that a King of Jerusalem, probably Solomon, draws from his experience:
 
 >If the ax is dull and its edge unsharpened, more strength is needed, but skill will bring success.
-- [Ecclesiastes, 10:10]
+-- [Ecclesiastes, 10:10]
 
 ![image](https://user-images.githubusercontent.com/8527082/55495515-5a54a000-563d-11e9-9486-3c321ddbeb02.png)
 
 I think that Navarro’s tutorial should take less than a day or so. Also, you can quickly benefit from the cheat sheets when you need them. The data wrangling slides (dplyr) took me less than an hour (20-30 minutes?) to master, and plyr shouldn't be much different.
 
 > Fear God, and keep his commandments; for that is the whole duty of everyone
-- [Ecclesiastes, 12:13]
+-- [Ecclesiastes, 12:13]
 
 ## Finally,
 
