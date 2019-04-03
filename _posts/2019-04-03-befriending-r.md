@@ -23,6 +23,8 @@ One can spot these declines in [Google Trends](https://trends.google.com/trends/
 
 Are you though? People, especially SPSS users, are usually entrapped in a kind of abusive relationship; they rely on it for their work and have to deal with its sufferings since they are too afraid to leave it and move on to a better alternative. In my opinion, some are even suffering from some sort of Stockholm syndrome. You are not alone there.
 
+![image](https://user-images.githubusercontent.com/8527082/55495028-507e6d00-563c-11e9-9169-c02553fb4c5c.png)
+
 # What can R offer that others do not?
 
 R is fabulous. It is superior to other languages in countless ways when it comes to statistical analyses. Most importantly, it has a very active community and a ton of useful packages which satisfy most of your needs. You can perform advanced statistical modelings and analyses that required special, costly software; you can easily do advanced latent trait modelings (IRT, EFA, CFA, and SEM). I am not going to give more details here.
@@ -58,6 +60,8 @@ Now that you are beginning, I very strongly suggest mastering packages plyr and 
 
 
 Also, Google, Stack Overflow, and Stack Exchange are your allies. In 90-95% of the cases, you can find literally the exact pieces of code you need in less than a minute or two. If you couldn't find a proper answer to your question (or had difficulty understanding what you have discovered), simply ask it on Cross Validated, where a kind stranger will help you quite soon.
+
+![image](https://user-images.githubusercontent.com/8527082/55495001-3c3a7000-563c-11e9-9622-cee3424aea9d.png)
 
 I’m super busy. How long does it all take?
 
