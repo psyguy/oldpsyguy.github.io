@@ -34,7 +34,7 @@ Are you really though? People, especially SPSS users, are usually entrapped in a
 
 R is fabulous. It is superior to other languages in countless ways when it comes to statistical analyses. Most importantly, it has a very active community and a ton of useful packages which satisfy most of your needs. You can perform advanced statistical modelings and analyses that required special, costly software; you can easily do advanced latent trait modelings (IRT, EFA, CFA, and SEM). I am not going to give more details here.
 
-With R (and its siblings, Rmarkdown and Shiny) you can do things so easily that are hard to imagine elsewhere. You can make excellent LaTeX or HTML reproducible (APA) papers, technical reports, books, and blogs with [Rmarkdown](https://bookdown.org/yihui/rmarkdown/), [bookdown](https://bookdown.org/yihui/bookdown/), and [blogdown](https://bookdown.org/yihui/blogdown/). You can create interactive apps with [Shiny](https://shiny.rstudio.com/gallery/) to [collect experiment data](https://psyr.org/shiny.html), make tutorials, and make powerful [BI dashboards](https://rviews.rstudio.com/2017/09/20/dashboards-with-r-and-databases/), and deploy them to [RStudio Shiny Server](https://www.shinyapps.io) or your own server. You can build [interactive maps](http://rmaps.github.io/) and produce [magnificent visualizations](https://www.r-graph-gallery.com/).
+With R (and its siblings, Rmarkdown and Shiny) you can do things so easily that are hard to imagine elsewhere. You can make excellent LaTeX or HTML reproducible (APA) papers, technical reports, books, and blogs with [Rmarkdown](https://bookdown.org/yihui/rmarkdown/), [bookdown](https://bookdown.org/yihui/bookdown/), and [blogdown](https://bookdown.org/yihui/blogdown/). You can create interactive apps with [Shiny](https://shiny.rstudio.com/gallery/) to [collect experiment data](https://psyr.org/shiny.html), make tutorials, and make powerful [BI dashboards](https://rviews.rstudio.com/2017/09/20/dashboards-with-r-and-databases/), and deploy them to [RStudio Shiny Server](https://www.shinyapps.io) or your own server. You can build [interactive maps](http://rmaps.github.io/) and produce [magnificent visualizations](https://www.r-graph-gallery.com/). You can do machine learning in R ([this](https://lgatto.github.io/IntroMachineLearningWithR/) and [this](https://www.datacamp.com/community/tutorials/machine-learning-in-r) for a start) and you can, like [Andrew Piper](https://twitter.com/_akpiper) and others, use R in [digital humanities](https://humanitiesdata.org/).
 
 
 ## _But I’m too old for this :(_
@@ -68,7 +68,7 @@ Now that you are beginning, I very strongly suggest mastering packages `plyr` an
 
 ![image](https://user-images.githubusercontent.com/8527082/55495100-760b7680-563c-11e9-8f3d-e04e10c1c6c3.png)
 
-## _I’m super busy :( How long does it all take?_
+## _But I’m super busy :( How long does it all take?_
 
 This is one of the strongest excuses to postpone learning useful skills, whether it is about programming (learning another language, or practicing a [decent coding style](https://google.github.io/styleguide/Rguide.xml)), using a new tool (like git versioning), or acquiring more deepening your superficial theoretical background on a subject. One should always remember this lesson, that a King of Jerusalem, probably Solomon, draws from his experience:
 
@@ -79,9 +79,11 @@ This is one of the strongest excuses to postpone learning useful skills, whether
 
 I think that Navarro’s tutorial should take less than a day or so. Also, you can quickly benefit from the cheat sheets when you need them. The data wrangling slides (dplyr) took me less than an hour (20-30 minutes?) to master, and plyr shouldn't be much different.
 
-## Finally,
+## _Before you go,_
 
 As a gift for reading this far, I would like to introduce [Ditto clipboard manager](https://ditto-cp.sourceforge.io/), a tool that helps you keep tens (or even hundreds) of copied/cut images and texts (also files!) in your clipboard with a very tiny overload on your PC. You can always search in the list, and you can use it as a draft pad. It takes few minutes to figure it out and you will soon wonder how you had managed to work with a computer without it.
+
+Feel free to share this article (since _Sharing is Caring_) or leave comments.
 
 > Fear God, and keep his commandments; for that is the whole duty of everyone
 -- (Ecclesiastes, 12:13)
