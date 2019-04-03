@@ -1,7 +1,7 @@
 ---
 published: true
 ---
-Or, **_Learning R: Why and How - A guide for absolute strangers_**
+Or, **_Learning R: Why and How -- A guide for absolute strangers_**
 
 I am an electrical engineer (majoring in telecommunication) with a master degree in AI (actually, graduating in a few months), and I am currently finishing a research master in psychology this year. In my master in psychology I was mostly focused on quantitative methods, and I am working on latent trait modeling of time series. Having that said, I am quite proficient in Matlab (as I have had enough of it in my EE and AI), but I now identify as a radical R evangelist. Sadly, many of my colleagues in psychology, even those working in quantitative psychology, are total strangers to R, and I genuinely suffer from that.
 
@@ -83,7 +83,7 @@ I think that Navarro’s tutorial should take less than a day or so. Also, you c
 
 As a gift for reading this far, I would like to introduce [Ditto clipboard manager](https://ditto-cp.sourceforge.io/), a tool that helps you keep tens (or even hundreds) of copied/cut images and texts (also files!) in your clipboard with a very tiny overload on your PC. You can always search in the list, and you can use it as a draft pad. It takes few minutes to figure it out and you will soon wonder how you had managed to work with a computer without it.
 
-since _Sharing is Caring,_ sharing this article is appreciated, and feel free to leave comments.
+Since _Sharing is Caring,_ sharing this article is appreciated, and feel free to leave comments.
 
 > Fear God, and keep his commandments; for that is the whole duty of everyone
 -- (Ecclesiastes, 12:13)
