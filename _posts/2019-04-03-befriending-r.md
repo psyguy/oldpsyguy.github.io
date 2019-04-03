@@ -21,9 +21,12 @@ One can spot these declines in [Google Trends](https://trends.google.com/trends/
 
 ![image](https://user-images.githubusercontent.com/8527082/55494090-6be87880-563a-11e9-8c09-830e7a8d0ce3.png)
 
+There I was involved in a recent conversation on twitter about Matlab/R comparison [here](https://twitter.com/_psyguy/status/1113395619287175168).
+
+
 ## _I am already familiar with Matlab/SPSS and I’m quite ‘happy’ with it_
 
-Are you though? People, especially SPSS users, are usually entrapped in a kind of abusive relationship; they rely on it for their work and have to deal with its sufferings since they are too afraid to leave it and move on to a better alternative. In my opinion, some are even suffering from some sort of Stockholm syndrome. You are not alone there.
+Are you really though? People, especially SPSS users, are usually entrapped in a kind of abusive relationship; they rely on it for their work and have to deal with its sufferings since they are too afraid to leave it and move on to a better alternative. In my opinion, some are even suffering from some sort of Stockholm syndrome. You are not alone there.
 
 ![image](https://user-images.githubusercontent.com/8527082/55495028-507e6d00-563c-11e9-9169-c02553fb4c5c.png)
 
@@ -76,9 +79,9 @@ This is one of the strongest excuses to postpone learning useful skills, whether
 
 I think that Navarro’s tutorial should take less than a day or so. Also, you can quickly benefit from the cheat sheets when you need them. The data wrangling slides (dplyr) took me less than an hour (20-30 minutes?) to master, and plyr shouldn't be much different.
 
-> Fear God, and keep his commandments; for that is the whole duty of everyone
--- [Ecclesiastes, 12:13]
-
 ## Finally,
 
 As a gift for reading this far, I would like to introduce [Ditto clipboard manager](https://ditto-cp.sourceforge.io/), a tool that helps you keep tens (or even hundreds) of copied/cut images and texts (also files!) in your clipboard with a very tiny overload on your PC. You can always search in the list, and you can use it as a draft pad. It takes few minutes to figure it out and you will soon wonder how you had managed to work with a computer without it.
+
+> Fear God, and keep his commandments; for that is the whole duty of everyone
+-- [Ecclesiastes, 12:13]
