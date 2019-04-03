@@ -26,13 +26,15 @@ There I was involved in a recent conversation on twitter about Matlab/R comparis
 
 ## _I am already familiar with Matlab/SPSS and I’m quite ‘happy’ with it_
 
-Are you really though? People, especially SPSS users, are usually entrapped in a kind of abusive relationship; they rely on it for their work and have to deal with its sufferings since they are too afraid to leave it and move on to a better alternative. In my opinion, some are even suffering from some sort of Stockholm syndrome. You are not alone there.
+Are you really though?
+
+People, especially SPSS users, are usually entrapped in a kind of abusive relationship; they rely on it for their work and have to deal with its sufferings since they are too afraid to leave it and move on to a better alternative. In my opinion, some are even suffering from some sort of Stockholm syndrome. You are not alone there.
 
 ![image](https://user-images.githubusercontent.com/8527082/55495028-507e6d00-563c-11e9-9169-c02553fb4c5c.png)
 
 ## _What can R offer that others do not?_
 
-R is fabulous. It is superior to other languages in countless ways when it comes to statistical analyses. Most importantly, it has a very active community and a ton of useful packages which satisfy most of your needs. You can perform advanced statistical modelings and analyses that required special, costly software; you can easily do advanced latent trait modelings (IRT, EFA, CFA, and SEM). I am not going to give more details here.
+R is fabulous. It is superior to other languages in countless ways when it comes to statistical analyses. Most importantly, it has a very active community and a ton of useful packages which satisfy most of your needs. You can perform advanced statistical modelings and analyses that required special, costly software; you can easily do advanced latent trait modelings (IRT, EFA, CFA, and SEM) and make complex hierarchical generalized linear models. You also can go full Bayesian in R with JAGS. I am not going to give more details on these here.
 
 With R (and its siblings, Rmarkdown and Shiny) you can do things so easily that are hard to imagine elsewhere. You can make excellent LaTeX or HTML reproducible (APA) papers, technical reports, books, and blogs with [Rmarkdown](https://bookdown.org/yihui/rmarkdown/), [bookdown](https://bookdown.org/yihui/bookdown/), and [blogdown](https://bookdown.org/yihui/blogdown/). You can create interactive apps with [Shiny](https://shiny.rstudio.com/gallery/) to [collect experiment data](https://psyr.org/shiny.html), make tutorials, and make powerful [BI dashboards](https://rviews.rstudio.com/2017/09/20/dashboards-with-r-and-databases/), and deploy them to [RStudio Shiny Server](https://www.shinyapps.io) or your own server. You can build [interactive maps](http://rmaps.github.io/) and produce [magnificent visualizations](https://www.r-graph-gallery.com/). You can do machine learning in R ([this](https://lgatto.github.io/IntroMachineLearningWithR/) and [this](https://www.datacamp.com/community/tutorials/machine-learning-in-r) for a start) and you can, like [Andrew Piper](https://twitter.com/_akpiper) and others, use R in [digital humanities](https://humanitiesdata.org/).
 
@@ -47,9 +49,7 @@ I can assure you that it is quite easy to reach the point where R surpasses the 
 
 ## _Owkay, but I don’t know where to start :(_
 
-There are literally countless free resources to learn R. This overload of information prevents most people from starting the journey. Hence, I only mention one handy (and quite concise) resource which I have recently found: Danielle Navarro’s [**R for Psychological Science**](https://psyr.org/)
-https://psyr.org/ 
-As the name says, it is tailored for psychology.
+There are literally countless free resources to learn R. This overload of information prevents most people from starting the journey. Hence, I only mention one handy (and quite concise) resource which I have recently found: Danielle Navarro’s [**R for Psychological Science**](https://psyr.org/). As the name says, it is tailored for psychology.
 
 However, **for an even faster, more efficient learning,** you can also benefit from [RStudio cheat sheets](https://www.rstudio.com/resources/cheatsheets/) after you have the fundamental knowledge of R. I suggest to follow this order:
 -    Base R
