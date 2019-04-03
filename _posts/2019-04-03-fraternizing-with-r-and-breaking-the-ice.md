@@ -21,7 +21,7 @@ One can spot these declines in [Google Trends](https://trends.google.com/trends/
 
 ![image](https://user-images.githubusercontent.com/8527082/55494090-6be87880-563a-11e9-8c09-830e7a8d0ce3.png)
 
-There I was involved in a recent conversation on twitter about Matlab/R comparison [here](https://twitter.com/_psyguy/status/1113395619287175168).
+I was involved in a recent conversation on twitter about Matlab/R comparison [here](https://twitter.com/_psyguy/status/1113395619287175168), which you might find interesting.
 
 
 ## _I am already familiar with Matlab/SPSS and I’m quite ‘happy’ with it_
