@@ -7,7 +7,7 @@ I am an electrical engineer (majoring in telecommunication) with a master degree
 
 I frequently hear a bunch of 'concerns' (i.e., excuses) why people are reluctant to start using R.  Here I try to address them. However, I will not talk much about computational power and efficiency of R compared to other languages (more specifically, Matlab, Python, and Julia), as I believe an average user in psychology would not notice any issues regarding the speed or efficiency. I, as a quite advanced user, have not encountered any significant efficiency problems in the past few years. In what follows, I try to encourage you to learn _the true and only way of doing statistics,_ which as everyone knows, is **R**.
 
-**Disclaimer:** only the first figure belongs to me.
+**Disclaimer:** only the first figure belongs to me, others can be removed upon request.
 
 ## _Why do you think I need to learn R?_ 
 
@@ -43,7 +43,7 @@ With R (and its siblings, Rmarkdown and Shiny) you can do things so easily that 
 
 ## _But I’m too old for this :(_
 
-This graph summarizes why you should still start learning R:
+This graph (from Navarro’s [intro slides](https://psyr.org/misc/overview.pdf)) summarizes why you should still start learning R:
 
 ![image](https://user-images.githubusercontent.com/8527082/55494231-a94d0600-563a-11e9-816d-2bbfd6cab64f.png)
  
@@ -51,7 +51,7 @@ I can assure you that it is quite easy to reach the point where R surpasses the 
 
 ## _Owkay, but I don’t know where to start :(_
 
-There are literally thousands of free resources to learn R out there. This overload of information prevents most people from starting the journey. Hence, I only mention one handy (and quite concise) resource which I have recently found: Danielle Navarro’s [**R for Psychological Science**](https://psyr.org/). As the name suggests, it is well tailored for psychology.
+There are literally thousands of free resources to learn R out there. This overload of information prevents most people from starting the journey. Hence, I only mention one handy (and quite concise) resource which I have recently found: Danielle Navarro’s [**R for Psychological Science**](https://psyr.org/). As the name suggests, it is well tailored for psychology--although the chapters on intermediate and advanced statistics are not complete yet.
 
 However, **for an even faster, more efficient learning,** you can also benefit from [RStudio cheat sheets](https://www.rstudio.com/resources/cheatsheets/) after you have the fundamental knowledge of R. I suggest to follow them in this order:
 -    Base R
@@ -79,7 +79,7 @@ This is one of the strongest excuses to postpone learning useful skills, whether
 
 ![image](https://user-images.githubusercontent.com/8527082/55495515-5a54a000-563d-11e9-9486-3c321ddbeb02.png)
 
-I think that Navarro’s tutorial should take less than a day or two. Also, you can always benefit from the cheat sheets when you need them. The data wrangling slides (dplyr) took me less than an hour (20-30 minutes?) to master, and plyr shouldn't be much different.
+I think that Navarro’s tutorial should take less than a day or two. Also, you can always benefit from the cheat sheets when you need them. The data wrangling slides (`dplyr`) took me less than an hour (20-30 minutes?) to master, and `plyr` shouldn't be much different.
 
 ## _Before you go,_
 
