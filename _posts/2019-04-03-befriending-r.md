@@ -61,23 +61,23 @@ Now that you are beginning, I very strongly suggest mastering packages plyr and 
 
 Also, Google, Stack Overflow, and Stack Exchange are your allies. In 90-95% of the cases, you can find literally the exact pieces of code you need in less than a minute or two. If you couldn't find a proper answer to your question (or had difficulty understanding what you have discovered), simply ask it on Cross Validated, where a kind stranger will help you quite soon.
 
-![image](https://user-images.githubusercontent.com/8527082/55495001-3c3a7000-563c-11e9-9622-cee3424aea9d.png)
+![image](https://user-images.githubusercontent.com/8527082/55495100-760b7680-563c-11e9-8f3d-e04e10c1c6c3.png)
 
 I’m super busy. How long does it all take?
 
 This is one of the strongest excuses to postpone learning useful skills, whether it is about programming (learning another language, or practicing a [decent coding style](https://google.github.io/styleguide/Rguide.xml)), using a new tool (like git versioning), or acquiring more deepening your superficial theoretical background on a subject. One should always remember this lesson, that a King of Jerusalem, probably Solomon, draws from his experience:
 
->If the ax is dull
->and its edge unsharpened,
->more strength is needed,
->but skill will bring success.
-[Ecclesiastes, 10:10]
+>If the ax is dull and its edge unsharpened, more strength is needed, but skill will bring success.
+
+>[Ecclesiastes, 10:10]
 
 image
 
 I think that Navarro’s tutorial should take less than a day or so. Also, you can quickly benefit from the cheat sheets when you need them. The data wrangling slides (dplyr) took me less than an hour (20-30 minutes?) to master, and plyr shouldn't be much different.
 
-"Fear God, and keep his commandments; for that is the whole duty of everyone" [Ecclesiastes, 12:13]
+> Fear God, and keep his commandments; for that is the whole duty of everyone
+
+> [Ecclesiastes, 12:13]
 
  
 
