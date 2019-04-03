@@ -11,20 +11,20 @@ I frequently hear a bunch of 'concerns' (i.e., excuses) why people are reluctant
 
 ## _Why do you think I need to learn R?_ 
 
-SPSS and Matlab are products of filthy Capitalism: they are very costly -which you would probably not care if you use university/student licenses or pirate them!- and they do not belong to the open source culture. I believe they are barriers on our way to a utopian open science.
+SPSS and Matlab are products of filthy Capitalism: they are very costly -which you would probably not care if you use university/student licenses or pirate them- and they do not belong to the open source culture. I believe they are barriers on our way to a utopian open science future.
 
-On top of that, I believe that there is a decent consensus that SPSS sucks in general--it is limited in its functionality and the analyses it can do. It shouldn't be surprising that SPSS is getting closer and closer to its death. Fingers crossed, I hope to see it extinct with my own eyes, hopefully before 2025.
+On top of that, I believe that there is a decent consensus that SPSS sucks in general--it is limited in its functionality and the analyses it can do. It shouldn't be surprising that SPSS is getting closer and closer to its death. Fingers crossed, I hope to see it go extinct with my own eyes, hopefully before 2025.
 
 Matlab, on the other hand, is not well-suited for [quantitative] psychology; it lacks essential functions and packages and doesn't handle the kind of data we encounter in social and behavioral sciences properly. Yes, it is a functional language for [hardcore] signal analysis and control engineering (and perhaps some numerical analyses/simulations in science and engineering). However, in many cases, Python and/or Julia are better alternatives. Also, although Matlab has always been a dominant language in engineering, there are indications that it is losing it to R.
 
-One can spot these declines in [Google Trends](https://trends.google.com/trends/explore/TIMESERIES/1554296400?hl=en-US&tz=-120&date=all&q=%2Fm%2F053_x,%2Fm%2F018fh1,%2Fm%2F0212jm&sni=3), although it is not a definite indicator of this claim. It is worth noting that Matlab owes much of its popularity to _pirates,_ mostly users from countries (such as Iran) where there are no (proper) copyright laws in order. Just take a close look at the Google Trends link, and compare Iran's rank for Matlab (1st) to 57th for R and 60th for Python.
+One can spot these declines in [Google Trends](https://trends.google.com/trends/explore/TIMESERIES/1554296400?hl=en-US&tz=-120&date=all&q=%2Fm%2F053_x,%2Fm%2F018fh1,%2Fm%2F0212jm&sni=3)--although it is not a definite indicator of this claim. It is worth noting that Matlab owes much of its popularity to _pirates,_ mostly users from countries (such as Iran) where there are no (proper) copyright laws in order. Just take a close look at the Google Trends link, and compare Iran's rank for Matlab (1st) to its rank for R and Python (57th and 60th, respectively).
 
 ![image](https://user-images.githubusercontent.com/8527082/55494090-6be87880-563a-11e9-8c09-830e7a8d0ce3.png)
 
-I was involved in a recent conversation on twitter about Matlab/R comparison [here](https://twitter.com/_psyguy/status/1113395619287175168), which you might find interesting.
+(I was involved in a recent (but short) conversation on twitter about Matlab/R comparison [here](https://twitter.com/_psyguy/status/1113395619287175168), which you might find interesting.)
 
 
-## _I am already familiar with Matlab/SPSS and I’m quite ‘happy’ with it_
+## _I am already familiar with Matlab/SPSS and I’m quite ‘happy’ with it._
 
 Are you really though?
 
@@ -41,7 +41,7 @@ With R (and its siblings, Rmarkdown and Shiny) you can do things so easily that 
 
 ## _But I’m too old for this :(_
 
-This graph summarizes why you should start learning R:
+This graph summarizes why you should still start learning R:
 
 ![image](https://user-images.githubusercontent.com/8527082/55494231-a94d0600-563a-11e9-816d-2bbfd6cab64f.png)
  
@@ -49,9 +49,9 @@ I can assure you that it is quite easy to reach the point where R surpasses the 
 
 ## _Owkay, but I don’t know where to start :(_
 
-There are literally countless free resources to learn R. This overload of information prevents most people from starting the journey. Hence, I only mention one handy (and quite concise) resource which I have recently found: Danielle Navarro’s [**R for Psychological Science**](https://psyr.org/). As the name says, it is tailored for psychology.
+There are literally thousands of free resources to learn R out there. This overload of information prevents most people from starting the journey. Hence, I only mention one handy (and quite concise) resource which I have recently found: Danielle Navarro’s [**R for Psychological Science**](https://psyr.org/). As the name suggests, it is well tailored for psychology.
 
-However, **for an even faster, more efficient learning,** you can also benefit from [RStudio cheat sheets](https://www.rstudio.com/resources/cheatsheets/) after you have the fundamental knowledge of R. I suggest to follow this order:
+However, **for an even faster, more efficient learning,** you can also benefit from [RStudio cheat sheets](https://www.rstudio.com/resources/cheatsheets/) after you have the fundamental knowledge of R. I suggest to follow them in this order:
 -    Base R
 -    RStudio IDE Cheat Sheet
 -    Data Import Cheat Sheet
@@ -61,29 +61,29 @@ However, **for an even faster, more efficient learning,** you can also benefit f
 -    Data Visualization Cheat Sheet
 -    Apply Functions Cheat Sheet 
 
-Now that you are beginning, I very strongly suggest mastering packages `plyr` and `dplyr` so you do not look like a troglodyte to other R users. The former offers a better way of writing apply functions, and the latter is the best way of handling data very intuitively and efficiently with pipe operator (`%>%`) and its functions for data manipulation. You can get a good understanding of `plyr` in Hadley Wickham's [paper](https://www.jstatsoft.org/index.php/jss/article/view/v040i01/v40i01.pdf) in the Journal of Statistical Software (2011) or [this tutorial](https://seananderson.ca/2013/12/01/plyr/). For `dplyr`, benefit from Garrett Grolemund’s data wrangling tutorial ([webinar](https://www.rstudio.com/resources/webinars/data-wrangling-with-r-and-rstudio/) and [slides](https://github.com/rstudio/webinars/blob/master/05-Data-Wrangling-with-R-and-RStudio/wrangling-webinar.pdf)). 
+**Now that you are beginning**, I very strongly suggest mastering packages `plyr` and `dplyr` so you do not look like a troglodyte to other R users. The former offers a better way of writing `apply` functions, and the latter is the best way of handling data very intuitively and efficiently with pipe operator (`%>%`) and its data manipulation functions. You can gain a good understanding of `plyr` in Hadley Wickham's [paper](https://www.jstatsoft.org/index.php/jss/article/view/v040i01/v40i01.pdf) in the Journal of Statistical Software (2011) or [this tutorial](https://seananderson.ca/2013/12/01/plyr/). For `dplyr`, you may benefit from Garrett Grolemund’s data wrangling tutorial ([webinar](https://www.rstudio.com/resources/webinars/data-wrangling-with-r-and-rstudio/) and [slides](https://github.com/rstudio/webinars/blob/master/05-Data-Wrangling-with-R-and-RStudio/wrangling-webinar.pdf)). 
 
 
-**Also**, Google, Stack Overflow, and Stack Exchange are your allies. In 90-95% of the cases, you can find literally the exact pieces of code you need in less than a minute or two. If you couldn't find a proper answer to your question (or had difficulty understanding what you have discovered), simply ask it on [Cross Validated](https://stats.stackexchange.com), where a kind stranger will help you quite soon. Interestingly, you can cite questions and answers you find Stack Overflow and Stack Exchange; they give you BibTeX citation code.
+**You should also know that** Google, Stack Overflow, and Stack Exchange are your allies. In 90-95% of the cases, you can find literally the exact pieces of code you need in less than a minute or two. If you couldn't find a proper answer to your question (or had difficulty understanding what you have discovered), simply ask it on [Cross Validated](https://stats.stackexchange.com), where a kind stranger will help you quite soon. Interestingly, you can cite questions and answers you find Stack Overflow and Stack Exchange; they give you BibTeX citation code. Some people receive quicker responses if they post their questions on Reddit.
 
 ![image](https://user-images.githubusercontent.com/8527082/55495100-760b7680-563c-11e9-8f3d-e04e10c1c6c3.png)
 
 ## _But I’m super busy :( How long does it all take?_
 
-This is one of the strongest excuses to postpone learning useful skills, whether it is about programming (learning another language, or practicing a [decent coding style](https://google.github.io/styleguide/Rguide.xml)), using a new tool (like git versioning), or acquiring more deepening your superficial theoretical background on a subject. One should always remember this lesson, that a King of Jerusalem, probably Solomon, draws from his experience:
+This is one of the strongest excuses to postpone learning useful skills, whether it is about programming (learning another language, or practicing a [decent coding style](https://google.github.io/styleguide/Rguide.xml)), using a new tool (like Git versioning), or deepening your superficial theoretical background on a subject. One should always remember this lesson, which a King of Jerusalem, probably Solomon, draws from his life experience:
 
 >If the ax is dull and its edge unsharpened, more strength is needed, but skill will bring success.
 -- (Ecclesiastes, 10:10)
 
 ![image](https://user-images.githubusercontent.com/8527082/55495515-5a54a000-563d-11e9-9486-3c321ddbeb02.png)
 
-I think that Navarro’s tutorial should take less than a day or so. Also, you can quickly benefit from the cheat sheets when you need them. The data wrangling slides (dplyr) took me less than an hour (20-30 minutes?) to master, and plyr shouldn't be much different.
+I think that Navarro’s tutorial should take less than a day or two. Also, you can always benefit from the cheat sheets when you need them. The data wrangling slides (dplyr) took me less than an hour (20-30 minutes?) to master, and plyr shouldn't be much different.
 
 ## _Before you go,_
 
-As a gift for reading this far, I would like to introduce [Ditto clipboard manager](https://ditto-cp.sourceforge.io/), a tool that helps you keep tens (or even hundreds) of copied/cut images and texts (also files!) in your clipboard with a very tiny overload on your PC. You can always search in the list, and you can use it as a draft pad. It takes few minutes to figure it out and you will soon wonder how you had managed to work with a computer without it.
+As a gift for reading this far, I would like to introduce [Ditto clipboard manager](https://ditto-cp.sourceforge.io/), a tool that helps you keep tens (or even hundreds) of copied/cut images and texts (also files!) in your clipboard with a very tiny overload on your PC. You can always search in the list, and I sometimes use it as a draft pad. It takes few minutes to figure it out and you will soon wonder how you had managed to work with a computer without it.
 
 Since _Sharing is Caring,_ sharing this article is appreciated, and feel free to leave comments.
 
-> Fear God, and keep his commandments; for that is the whole duty of everyone
+> Fear God, and keep his commandments; for that is the whole duty of everyone.
 -- (Ecclesiastes, 12:13)
