@@ -83,7 +83,7 @@ I think that Navarro’s tutorial should take less than a day or so. Also, you c
 
 As a gift for reading this far, I would like to introduce [Ditto clipboard manager](https://ditto-cp.sourceforge.io/), a tool that helps you keep tens (or even hundreds) of copied/cut images and texts (also files!) in your clipboard with a very tiny overload on your PC. You can always search in the list, and you can use it as a draft pad. It takes few minutes to figure it out and you will soon wonder how you had managed to work with a computer without it.
 
-Feel free to share this article (since _Sharing is Caring_) or leave comments.
+since _Sharing is Caring,_ sharing this article is appreciated, and feel free to leave comments.
 
 > Fear God, and keep his commandments; for that is the whole duty of everyone
 -- (Ecclesiastes, 12:13)
