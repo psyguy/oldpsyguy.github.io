@@ -17,7 +17,7 @@ On top of that, I believe that there is a decent consensus that SPSS sucks in ge
 
 Matlab, on the other hand, is not well-suited for [quantitative] psychology; it lacks essential functions and packages and doesn't handle the kind of data we encounter in social and behavioral sciences properly. Yes, it is a functional language for [hardcore] signal analysis and control engineering (and perhaps some numerical analyses/simulations in science and engineering). However, in many cases, Python and/or Julia are better alternatives. Also, although Matlab has always been a dominant language in engineering, there are indications that it is losing it to R.
 
-One can spot these declines in [Google Trends](https://trends.google.com/trends/explore/TIMESERIES/1554296400?hl=en-US&tz=-120&date=all&q=%2Fm%2F053_x,%2Fm%2F018fh1,%2Fm%2F0212jm&sni=3), although it is not a definite indicator of this claim. It is worth noting that Matlab owes much of its popularity to _pirates,_ mostly users from countries (such as Iran) where there are no (proper) copyright laws in order. Just take a close look at the Google Trends link.
+One can spot these declines in [Google Trends](https://trends.google.com/trends/explore/TIMESERIES/1554296400?hl=en-US&tz=-120&date=all&q=%2Fm%2F053_x,%2Fm%2F018fh1,%2Fm%2F0212jm&sni=3), although it is not a definite indicator of this claim. It is worth noting that Matlab owes much of its popularity to _pirates,_ mostly users from countries (such as Iran) where there are no (proper) copyright laws in order. Just take a close look at the Google Trends link, and compare Iran's rank for Matlab (1st) to 57th for R and 60th for Python.
 
 ![image](https://user-images.githubusercontent.com/8527082/55494090-6be87880-563a-11e9-8c09-830e7a8d0ce3.png)
 
