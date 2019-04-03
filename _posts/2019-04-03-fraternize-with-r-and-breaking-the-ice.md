@@ -1,8 +1,6 @@
 ---
 published: true
 ---
-Or, **_Learning R: Why and How - A guide for absolute strangers_**
-
 I am an electrical engineer (majoring in telecommunication) with a master degree in AI (actually, graduating in a few months), and I am currently finishing a research master in psychology this year. In my master in psychology I was mostly focused on quantitative methods, and I am working on latent trait modeling of time series. Having that said, I am quite proficient in Matlab (as I have had enough of it in my EE and AI), but I now identify as a radical R evangelist. Sadly, many of my colleagues in psychology, even those working in quantitative psychology, are total strangers to R, and I genuinely suffer from that.
 
 I frequently hear a bunch of 'concerns' (i.e., excuses) why people are reluctant to start using R.  Here I try to address them. However, I will not talk much about computational power and efficiency of R compared to other languages (more specifically, Matlab, Python, and Julia), as I believe an average user in psychology would not notice any issues regarding the speed or efficiency. I, as a quite advanced user, have not encountered any significant efficiency problems in the past few years. In what follows, I try to encourage you to learn _the true and only way of doing statistics,_ which as everyone knows, is **R**.
