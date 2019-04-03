@@ -73,7 +73,7 @@ Now that you are beginning, I very strongly suggest mastering packages `plyr` an
 This is one of the strongest excuses to postpone learning useful skills, whether it is about programming (learning another language, or practicing a [decent coding style](https://google.github.io/styleguide/Rguide.xml)), using a new tool (like git versioning), or acquiring more deepening your superficial theoretical background on a subject. One should always remember this lesson, that a King of Jerusalem, probably Solomon, draws from his experience:
 
 >If the ax is dull and its edge unsharpened, more strength is needed, but skill will bring success.
--- [Ecclesiastes, 10:10]
+-- (Ecclesiastes, 10:10)
 
 ![image](https://user-images.githubusercontent.com/8527082/55495515-5a54a000-563d-11e9-9486-3c321ddbeb02.png)
 
@@ -84,4 +84,4 @@ I think that Navarro’s tutorial should take less than a day or so. Also, you c
 As a gift for reading this far, I would like to introduce [Ditto clipboard manager](https://ditto-cp.sourceforge.io/), a tool that helps you keep tens (or even hundreds) of copied/cut images and texts (also files!) in your clipboard with a very tiny overload on your PC. You can always search in the list, and you can use it as a draft pad. It takes few minutes to figure it out and you will soon wonder how you had managed to work with a computer without it.
 
 > Fear God, and keep his commandments; for that is the whole duty of everyone
--- [Ecclesiastes, 12:13]
+-- (Ecclesiastes, 12:13)
