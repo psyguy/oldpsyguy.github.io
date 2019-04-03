@@ -56,10 +56,10 @@ However, **for an even faster, more efficient learning,** you can also benefit f
 -    Data Visualization Cheat Sheet
 -    Apply Functions Cheat Sheet 
 
-Now that you are beginning, I very strongly suggest mastering packages `plyr` and `dplyr` so you do not look like a troglodyte to other R users. The former offers a better way of writing apply functions, and the latter is the best way of handling data very intuitively and efficiently with pipe operator (`%>%`) and its functions for data manipulation. You can get a good understanding of `plyr` in Hadley Wickham's [paper](https://www.jstatsoft.org/index.php/jss/article/view/v040i01/v40i01.pdf) in the Journal of Statistical Software (2011) or this tutorial. For `dplyr`, benefit from Garrett Grolemund’s data wrangling tutorial (webinar and slides). 
+Now that you are beginning, I very strongly suggest mastering packages `plyr` and `dplyr` so you do not look like a troglodyte to other R users. The former offers a better way of writing apply functions, and the latter is the best way of handling data very intuitively and efficiently with pipe operator (`%>%`) and its functions for data manipulation. You can get a good understanding of `plyr` in Hadley Wickham's [paper](https://www.jstatsoft.org/index.php/jss/article/view/v040i01/v40i01.pdf) in the Journal of Statistical Software (2011) or [this tutorial](https://seananderson.ca/2013/12/01/plyr/). For `dplyr`, benefit from Garrett Grolemund’s data wrangling tutorial ([webinar](https://www.rstudio.com/resources/webinars/data-wrangling-with-r-and-rstudio/) and [slides](https://github.com/rstudio/webinars/blob/master/05-Data-Wrangling-with-R-and-RStudio/wrangling-webinar.pdf)). 
 
 
-Also, Google, Stack Overflow, and Stack Exchange are your allies. In 90-95% of the cases, you can find literally the exact pieces of code you need in less than a minute or two. If you couldn't find a proper answer to your question (or had difficulty understanding what you have discovered), simply ask it on Cross Validated, where a kind stranger will help you quite soon.
+**Also**, Google, Stack Overflow, and Stack Exchange are your allies. In 90-95% of the cases, you can find literally the exact pieces of code you need in less than a minute or two. If you couldn't find a proper answer to your question (or had difficulty understanding what you have discovered), simply ask it on [Cross Validated](https://stats.stackexchange.com), where a kind stranger will help you quite soon. Interestingly, you can cite questions and answers you find Stack Overflow and Stack Exchange; they give you BibTeX citation code.
 
 ![image](https://user-images.githubusercontent.com/8527082/55495100-760b7680-563c-11e9-8f3d-e04e10c1c6c3.png)
 
@@ -80,7 +80,3 @@ I think that Navarro’s tutorial should take less than a day or so. Also, you c
 ## Finally,
 
 As a gift for reading this far, I would like to introduce [Ditto clipboard manager](https://ditto-cp.sourceforge.io/), a tool that helps you keep tens (or even hundreds) of copied/cut images and texts (also files!) in your clipboard with a very tiny overload on your PC. You can always search in the list, and you can use it as a draft pad. It takes few minutes to figure it out and you will soon wonder how you had managed to work with a computer without it.
-
-
-
-
