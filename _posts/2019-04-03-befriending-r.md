@@ -56,7 +56,7 @@ However, **for an even faster, more efficient learning,** you can also benefit f
 -    Data Visualization Cheat Sheet
 -    Apply Functions Cheat Sheet 
 
-Now that you are beginning, I very strongly suggest mastering packages plyr and dplyr so you do not look like a troglodyte to other R users. The former offers a better way of writing apply functions, and the latter is the best way of handling data very intuitively and efficiently with pipe operator (%>%) and its functions for data manipulation. You can get a good understanding of plyr in Hadley Wickham's paper in the Journal of Statistical Software (2011) or this tutorial. For dplyr, benefit from Garrett Grolemund’s data wrangling tutorial (webinar and slides). 
+Now that you are beginning, I very strongly suggest mastering packages `plyr` and `dplyr` so you do not look like a troglodyte to other R users. The former offers a better way of writing apply functions, and the latter is the best way of handling data very intuitively and efficiently with pipe operator (`%>%`) and its functions for data manipulation. You can get a good understanding of `plyr` in Hadley Wickham's [paper](https://www.jstatsoft.org/index.php/jss/article/view/v040i01/v40i01.pdf) in the Journal of Statistical Software (2011) or this tutorial. For `dplyr`, benefit from Garrett Grolemund’s data wrangling tutorial (webinar and slides). 
 
 
 Also, Google, Stack Overflow, and Stack Exchange are your allies. In 90-95% of the cases, you can find literally the exact pieces of code you need in less than a minute or two. If you couldn't find a proper answer to your question (or had difficulty understanding what you have discovered), simply ask it on Cross Validated, where a kind stranger will help you quite soon.
