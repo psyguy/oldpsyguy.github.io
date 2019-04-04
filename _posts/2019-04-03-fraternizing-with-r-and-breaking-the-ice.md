@@ -72,7 +72,7 @@ However, **for an even faster, more efficient learning,** you can also benefit f
 
 ## _But I’m super busy :( How long does it all take?_
 
-This is one of the strongest excuses to postpone learning useful skills, whether it is about programming (learning another language, or practicing a [decent coding style](https://google.github.io/styleguide/Rguide.xml)), using a new tool (like Git versioning), or deepening your superficial theoretical background on a subject. One should always remember this lesson, which a King of Jerusalem, probably Solomon, draws from his life experience:
+This is one of the strongest excuses to postpone learning useful skills, whether they are about programming (learning another language, or practicing a [decent coding style](https://google.github.io/styleguide/Rguide.xml)), using a new tool (like Git versioning), or deepening your superficial theoretical background on a subject. One should always remember this lesson, which a King of Jerusalem, probably King Solomon, draws from his life experience:
 
 >If the ax is dull and its edge unsharpened, more strength is needed, but skill will bring success.
 -- (Ecclesiastes, 10:10)
