@@ -26,7 +26,7 @@ One can spot these declines in [Google Trends](https://trends.google.com/trends/
 
 ## _I am already familiar with Matlab/SPSS and I’m quite ‘happy’ with it._
 
-Are you really though?
+Are you really happy though?
 
 People, especially SPSS users, are usually entrapped in a kind of abusive relationship; they rely on it for their work and have to deal with its sufferings since they are too afraid to leave it and move on to a better alternative. In my opinion, some are even suffering from some sort of Stockholm syndrome.
 
