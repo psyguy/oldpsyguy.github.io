@@ -83,6 +83,6 @@ I think that Navarro’s tutorial should take less than a day or two. Also, you 
 
 ## _Before you go,_
 
-As a gift for reading this far, I would like to introduce [Ditto clipboard manager](https://ditto-cp.sourceforge.io/), a tool that helps you keep tens (or even hundreds) of copied/cut images and texts (also files!) in your clipboard with a very tiny overload on your PC. You can always search in the list, and I sometimes use it as a draft pad. It takes few minutes to figure it out and you will soon wonder how you had managed to work with a computer without it.
+As a gift for reading this far, I would like to introduce [Ditto clipboard manager](https://ditto-cp.sourceforge.io/), a tool that helps you keep dozens (or even hundreds) of copied/cut images and texts (also files!) in your clipboard with a very tiny overload on your PC. You can always search in the list, and I sometimes use it as a draft pad. It takes few minutes to figure it out and you will soon wonder how you had managed to work with a computer without it.
 
 Since _Sharing is Caring,_ sharing this article is appreciated, and feel free to leave comments.
